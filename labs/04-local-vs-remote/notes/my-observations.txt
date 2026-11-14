@@ -1,0 +1,3 @@
+origin to lokalna nazwa mojego zdalnego adresu repozytorium na GitHubie, dzieki temu zamiast wpisywac pelny URL wystarczy git push
+origin  https://github.com/Hubert017/software-engineering-in-practice.git (fetch)
+origin  https://github.com/Hubert017/software-engineering-in-practice.git (push)
