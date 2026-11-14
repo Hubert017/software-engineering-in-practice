@@ -1,0 +1,3 @@
+git status pokazuje ze jestem na galezi main, katalog roboczy jest czysty wiec nie ma zadnych lokalnych zmian
+git log pokazuje historie commitow od najnowszego do najstarszego, z hashem, autorem, data i opisem kazdego z nich
+git status pokazuje teraz nowy plik untracked, nie zostal dodany do gita
